@@ -9128,7 +9128,7 @@ const RR_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   },
   'Decidueye-Hisui': {
     types: ['Grass', 'Fighting'],
-    bs: {hp: 98, at: 112, df: 80, sa: 65, sd: 95, sp: 90},
+    bs: {hp: 98, at: 112, df: 85, sa: 75, sd: 100, sp: 70},
     weightkg: 36.6,
     abilities: {0: 'Overgrow'},
     baseSpecies: 'Decidueye',
