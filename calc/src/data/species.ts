@@ -46,7 +46,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Articuno: {
     types: ['Ice', 'Flying'],
-    bs: {hp: 90, at: 85, df: 100, sp: 85, sl: 125},
+    bs: {hp: 90, at: 70, df: 100, sp: 85, sl: 125},
     weightkg: 55.4,
   },
   Beedrill: {
@@ -8745,7 +8745,7 @@ const RR_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   'Arctozolt': {bs: {sd: 55, sp: 80}},
   'Ariados': {bs: {at: 95, sp: 70}},
   'Aromatisse': {bs: {at: 62, df: 82}},
-  'Articuno': {bs: {at: 70, sp: 105}},
+  'Articuno': {bs: {at: 70, sp: 100}},
   'Articuno-Galar': {bs: {at: 70, df: 95, sp: 100}},
   'Avalugg': {otherFormes: ['Avalugg-Hisui']},
   'Banette-Mega': {types: ['Ghost', 'Normal']},
@@ -8864,6 +8864,7 @@ const RR_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   'Lilligant': {otherFormes: ['Lilligant-Hisui']},
   'Linoone': {bs: {hp: 85, at: 85}},
   'Lopunny': {types: ['Normal', 'Fighting']},
+  'Ludicolo': {bs: {sa: 100}},
   'Lumineon': {bs: {hp: 79, at: 59, sa: 96, sd: 69, sp: 101}},
   'Lunatone': {bs: {sa: 105, sp: 90}},
   'Lurantis': {types: ['Grass', 'Fighting'], bs: {sp: 55}},
