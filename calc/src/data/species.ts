@@ -46,7 +46,7 @@ const RBY: {[name: string]: SpeciesData} = {
   },
   Articuno: {
     types: ['Ice', 'Flying'],
-    bs: {hp: 90, at: 70, df: 100, sp: 85, sl: 125},
+    bs: {hp: 90, at: 85, df: 100, sp: 85, sl: 125},
     weightkg: 55.4,
   },
   Beedrill: {
