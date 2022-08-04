@@ -8780,6 +8780,8 @@ const RR_PATCH: {[name: string]: DeepPartial<SpeciesData>} = {
   'Corsola': {bs: {hp: 85, df: 100, sd: 100}},
   'Copperajah': {bs: {df: 79, sd: 79}, otherFormes: ['Copperajah-Mega']},
   'Cramorant': {bs: {df: 65, sa: 100, sp: 105}},
+  'Cramorant-Gorging': {bs: {df: 65, sa: 100, sp: 105}},
+  'Cramorant-Gulping': {bs: {df: 65, sa: 100, sp: 105}},
   'Crobat': {bs: {sa: 90}},
   'Crustle': {bs: {sp: 55}},
   'Cryogonal': {bs: {sa: 110}},
