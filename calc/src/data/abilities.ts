@@ -306,6 +306,7 @@ const RR = SS.concat([
   'Mountaineer',
   'ORAORAORAORA',
   'Parasitic Waste',
+  'Phoenix Down',
   'Primal Armor',
   'Quill Rush',
   'Sage Power',
